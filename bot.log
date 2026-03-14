@@ -1,0 +1,4 @@
+2026-03-14 10:59:17,723 | INFO | API REQUEST | {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-03-14 10:59:17,723 | INFO | API RESPONSE | {'orderId': 696645, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': '65000'}
+2026-03-14 11:00:18,523 | INFO | API REQUEST | {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'price': 70000.0, 'timeInForce': 'GTC'}
+2026-03-14 11:00:18,523 | INFO | API RESPONSE | {'orderId': 599245, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.01, 'avgPrice': 70000.0}
