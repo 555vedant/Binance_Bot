@@ -1,4 +1,4 @@
-# Simplified Trading Bot
+# Trading Bot
 
 ## Setup
 pip install -r requirements.txt
